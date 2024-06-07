@@ -17,7 +17,7 @@
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Randy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Randy | Website" width="22px" src="https://cdn.jsdelivr.net/npm/@meldcx/glow-icons@1.2.0/icons/browser.svg" />][linkedin]
+[<img align="left" alt="Randy | Website" width="22px" src="https://cdn.jsdelivr.net/npm/@meldcx/glow-icons@1.2.0/icons/browser.svg" />][Personal Website]
 
 [linkedin]: https://www.linkedin.com/in/randyramirez95
 [Personal Website]: https://randyramirez95.github.io/
